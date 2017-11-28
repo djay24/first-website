@@ -1,0 +1,17 @@
+/*** form container ***/
+.contact-container {
+    padding: 25px;
+}
+.contact-container:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+.form-container {
+    width: 50%;
+    margin: 0 auto;
+    float: left;
+}
+.map-container {
+    
+}
