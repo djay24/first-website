@@ -1,0 +1,18 @@
+/*** start about section ***/
+.about-container:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+.about-section {
+    width: 45%;
+    float: left;
+    padding: 2.5%;
+}
+.selfie {
+    width:100%;
+}
+.center-text {
+    text-align: center;
+}
+/*** end about section ***/
